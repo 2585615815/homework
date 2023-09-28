@@ -1,0 +1,92 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "aeZXndBgNQSkR2wOjmbms",
+      "type": "arrow",
+      "x": 359,
+      "y": -9737,
+      "width": 319,
+      "height": 2,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 64373266,
+      "version": 73,
+      "versionNonce": 316140494,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1695872070762,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          319,
+          -2
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "SA1MgVlHLWqIr4GxEhRtd",
+      "type": "text",
+      "x": 405.5,
+      "y": -9710,
+      "width": 199.21875,
+      "height": 72,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 684016142,
+      "version": 37,
+      "versionNonce": 94534354,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1695872317564,
+      "link": null,
+      "locked": false,
+      "text": "type(s2.values[0]\n\n",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 68,
+      "containerId": null,
+      "originalText": "type(s2.values[0]\n\n",
+      "lineHeight": 1.2
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
